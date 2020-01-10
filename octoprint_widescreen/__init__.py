@@ -37,7 +37,7 @@ class WidescreenPlugin(octoprint.plugin.SettingsPlugin,
 				current=self._plugin_version,
 
 				# update method: pip
-				pip="https://github.com/jneilliii/OctoPrint-WideScreen/archive/{target_version}.zip"
+				pip="https://github.com/ShohninDmitriy/OctoPrint-WideScreen/archive/{target_version}.zip"
 			)
 		)
 
