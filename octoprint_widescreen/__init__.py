@@ -35,7 +35,7 @@ class WidescreenPlugin(octoprint.plugin.SettingsPlugin,
 
 				# version check: github repository
 				type="github_release",
-				user="jneilliii",
+				user="ShohninDmitriy",
 				repo="OctoPrint-WideScreen",
 				current=self._plugin_version,
 
